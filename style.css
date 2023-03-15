@@ -1,0 +1,12 @@
+.fondo-color{
+    background-color: aquamarine;
+}
+
+.fondo-color-2{
+    background-image: url(https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif);
+}
+
+#boton {
+    width: 50%;
+    height: 50%;
+}
