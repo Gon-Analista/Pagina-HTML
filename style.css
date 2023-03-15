@@ -1,12 +1,48 @@
 .fondo-color{
-    background-color: aquamarine;
+    background-color: aqua;
+  
 }
 
-.fondo-color-2{
-    background-image: url(https://media.tenor.com/x8v1oNUOmg4AAAAd/rickroll-roll.gif);
+.titulo_integrante li{
+    font-size: 150%;
 }
 
-#boton {
-    width: 50%;
-    height: 50%;
+.titulo__gato{
+    margin-left: 60px;
+    font-size: 150%;
 }
+  
+
+.caja_mascotas{
+    align-items: center;
+    
+
+}
+
+.mascota__perro{
+    display: flex;
+    align-items: center;
+
+
+}
+
+.titulo__perro{
+    margin-left: 60px;
+    font-size: 150%;
+
+}
+
+.mascota__gato{
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.titulo__gato{
+    margin-left: 60px;
+    font-size: 150%;
+}
+
+
+
