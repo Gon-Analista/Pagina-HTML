@@ -1,0 +1,65 @@
+.titulo{
+    display: flex;
+    margin-left: 40%;
+}
+
+.texto_bienvenida{
+    font-size: 110%;
+    margin-left: 1%;
+}
+
+.titulo_integrante li{
+    font-size: 120%;
+}
+
+.titulo__gato{
+    margin-left: 60px;
+    font-size: 150%;
+}
+  
+
+.caja_mascotas{
+    align-items: center;
+    margin-left: 1%;
+}
+
+.mascota__perro{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px
+
+
+}
+
+.titulo__perro{
+    margin-left: 60px;
+    font-size: 150%;
+
+}
+
+.mascota__gato{
+    display: flex;
+    align-items: center;
+    
+}
+
+.titulo__gato{
+    margin-left: 60px;
+    font-size: 150%;
+}
+
+.imagen_fondo{
+    position:absolute;
+    left: 40%;
+    top: 40%;
+    z-index: -1;
+}
+body {
+    background-color: #F3EFEF;
+    background-image: url('https://i.imgur.com/8yv5jFs.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Helvetica', sans-serif;
+    color: #333;
+  }
